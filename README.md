@@ -1,0 +1,1 @@
+# A Comparative Analysis of Reservoir Computing Methods : A Comparison of Liquid State Machines and Echo State Networks in Reservoir Computing
